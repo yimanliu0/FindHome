@@ -1,6 +1,6 @@
 # FindHome
 Final Project for Web Development CS5610 details <br/>
-Deployed: inserthere <br/>
+Deployed: https://rocky-savannah-76951.herokuapp.com/ <br/>
 Author: Jennifer Chang <br/> <br/>
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2020/ <br/>
 Final Project Objective: Building an application that lets you explore the posts given. Implement bonus feature (Crime HeatMap) <br/> <br/>
