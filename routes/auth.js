@@ -26,9 +26,7 @@ app.use(Passport.initialize());
 app.use(Passport.session());
 
 const MongoClient = require("mongodb").MongoClient;
-const uri =
-  process.env.MONGO_URL ||
-  "mongodb+srv://Ilovewebdev:Ilovewebdev@cluster0.wfhwe.mongodb.net/dogs?retryWrites=true&w=majority";
+const uri = process.env.MONGO_URL || "mongodb://localhost:27017";
 
 Passport.use(
   new Strategy(
