@@ -18,3 +18,5 @@ Credits: <br/>
 Photos Credit: Upsplash <br/>
 Tutorials used: https://thewidlarzgroup.com/react-table-7/, https://blog.logrocket.com/building-carousel-component-react-hooks/, https://www.npmjs.com/package/react-heatmap-grid
 -
+
+<!-- Well done on showing the main idea of the project here! However, I tried to use 'npm start' in the backend, but it didn't work. 'nodemon start' works for me! -->
