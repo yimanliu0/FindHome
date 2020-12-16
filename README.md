@@ -1,4 +1,5 @@
 # FindHome
+Final Project for Web Development CS5610 details
 Deployed: inserthere <br/>
 Author: Jennifer Chang <br/> <br/>
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2020/ <br/>
