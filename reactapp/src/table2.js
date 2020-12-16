@@ -109,6 +109,8 @@ const Table2 = () => {
     },
   ]);
 
+  // One minor thing here, I think it is better to use <div> as a child of <body> :)
+  
   return (
     <div>
       <body>
