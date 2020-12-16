@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow: auto;
+  background-color: whitesmoke;
+}
+
+.loading {
+  color: #3c240f;
+  font-family: "Playfair Display", serif;
+}
+
+.custom-select {
+  color: white;
+  background: #4c4c4c;
+}

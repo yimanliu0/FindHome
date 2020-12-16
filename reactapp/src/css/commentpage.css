@@ -1,0 +1,67 @@
+html,
+body {
+  margin: 0px;
+}
+.commentpage {
+  background: url(../Images/My_Account_Background.jpg) center center / cover
+    no-repeat;
+}
+.usercard2 {
+  background-color: whitesmoke;
+  opacity: 0.8;
+  height: 400px;
+  width: 300px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 14px;
+}
+
+.card-header {
+  background: whitesmoke;
+  color: black;
+}
+
+.card-body {
+  color: #3c240f;
+}
+
+.container-fluid {
+  align-content: center;
+  height: 100vh;
+}
+
+a {
+  font-family: "Roboto", sans-serif;
+  color: #3c240f;
+}
+
+/**for mobile version make card thinner**/
+@media only screen and (max-width: 600px) {
+  .card {
+    width: 250px;
+  }
+}
+
+.form {
+  float: bottom;
+}
+.submitButtons {
+  display: inline-flex;
+  align-content: center;
+}
+
+.buttons {
+  padding: 5px;
+  margin: 2px;
+}
+
+.identi {
+  background: whitesmoke;
+  color: #3c240f;
+}
+
+#header {
+  background: whitesmoke;
+  color: #3c240f;
+  font-size: 40px;
+}
