@@ -4,8 +4,8 @@ Author: Jennifer Chang <br/> <br/>
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2020/ <br/>
 Final Project Objective: Building an application that lets you explore the posts given. Implement bonus feature (Crime HeatMap) <br/> <br/>
 Screenshots: <br/>
-![ScreenShot](/screenshots/ScreenShot1.ppg)
-![ScreenShot](/screenshots/ScreenShot2.ppg)
+![ScreenShot](/screenshots/ScreenShot1.png)
+![ScreenShot](/screenshots/ScreenShot2.png)
 <br/> <br/>
 Instructions to build: <br/>
 -Clone the repository <br/>
