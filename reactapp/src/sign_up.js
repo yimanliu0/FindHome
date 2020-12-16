@@ -6,7 +6,9 @@ import { Link } from "react-router-dom";
 function SignUp() {
   const urlParams = new URLSearchParams(window.location.search);
   const error = urlParams.get("error");
-
+  
+  // Also, it is better to use 'htmlFor' instead of 'for' in React as htmlFor is the word used by JSX.
+  
   return (
     <div role="main">
       <div className="SignUp">
