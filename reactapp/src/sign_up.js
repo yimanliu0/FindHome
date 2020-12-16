@@ -7,6 +7,10 @@ function SignUp() {
   const urlParams = new URLSearchParams(window.location.search);
   const error = urlParams.get("error");
 
+  //   Nice job on connecting the front end to back end! 
+  //   One suggesstion is that adding autocomplete attributes in 'input' element can get rid of the warning from React.
+  //   Also, it is better to use 'htmlFor' instead of 'for' in React as htmlFor is the word used by JSX.
+  
   return (
     <div role="main">
       <div className="SignUp">
